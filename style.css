@@ -1,0 +1,139 @@
+
+#color{
+    background-color: black;
+    display:flex;
+    justify-content: space-around;
+    
+}
+#new a{
+    color:white;
+    font-family: Kanit;
+  
+}
+
+#new a:hover{
+    color:orange;
+}
+#newo{
+    background-image: url(./images/yonan-farah-5Nt_NxmArJ0-unsplash.jpg);
+}
+#newo h1{
+    font-family: Nerko One;
+    color: rgba(185, 125, 14, 0.861);
+}
+#mari{
+    font-family: Nerko One;
+    color: rgba(185, 125, 14, 0.861);
+}
+#newos{
+    background-image: url(./images/andrew-kliatskyi-ZV79vhL6ppk-unsplash.jpg);
+    width: 100%;
+    height: 100%;
+}
+#newos p{
+    color:white ;
+    font-family: Baskervville SC;
+}
+#bs{
+    color: orange;
+    font-family:  Nerko One;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+#line{
+    border: 1px solid red;
+    height:4px;
+    width:90px;
+    background-color: red;
+    
+}
+#bs h5{
+    font-family:Baskervville SC ;
+   
+}
+#m{
+    font-family:Baskervville SC ;
+    color: white;
+
+}
+#colorr{
+    width:100%;
+    height: 100%;
+    background-image: url(./images/andrew-kliatskyi-ZV79vhL6ppk-unsplash.jpg);
+}
+#mo{
+    color: white;
+    font-family:Baskervville SC ;
+
+}
+.mn{
+    font-family:Bodoni Moda SC;
+    color: white;
+    font-size: smaller;
+}
+#nr{
+    display:flex;
+    justify-content: center;
+    font-family:  Nerko One;
+    font-size: 27px;
+    color: orange;
+}
+#lorr{
+    width:100%;
+    height: 100%;
+    background-image: url(./images/andrew-kliatskyi-ZV79vhL6ppk-unsplash.jpg);
+}
+
+#rest{
+    display:flex;
+    justify-content: center;
+}
+#ide{
+    display: flex;
+    justify-content: center;
+    margin-left: 15%;
+    color: white;
+    font-family:Bodoni Moda SC ;
+}
+.manuf{
+    font-family:  Nerko One;
+    color: white;
+}
+.nice{
+    font-family: Baskervville SC;
+    color:white ;
+    font-family:Baskervville SC ;
+}
+#lorrr{
+    background-image: url(./images/pexels-danbuilds-633409.jpg);
+}
+#nri{
+    font-family: Nerko One;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    color: orange;
+}
+#last{
+    background-color:darkgrey
+   
+    
+}
+#liner{
+    border:1px solid red;
+    height:4px;
+    width:200px;
+    background-color: red;
+
+}
+#laster{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family:  Nerko One;
+    color:orange;
+}
+#foot{
+    background-color: black;
+}
